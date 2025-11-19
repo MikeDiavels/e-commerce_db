@@ -11,3 +11,13 @@ Tabla 1
 
 Colección: productos
 
+<img width="640" height="247" alt="1" src="https://github.com/user-attachments/assets/2025db3f-42c8-4f7a-8bc5-57c1aaf627c1" />
+Tabla 2
+
+Colección: clientes
+<img width="641" height="199" alt="2" src="https://github.com/user-attachments/assets/14fe186c-832a-4618-8a3b-0aaac76d5e73" />
+Tabla 3
+
+Colección: pedidos
+
+<img width="639" height="288" alt="3" src="https://github.com/user-attachments/assets/0a9c0224-da72-46ba-81b7-a5f912bafff2" />
