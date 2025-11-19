@@ -8,10 +8,11 @@ Diseño de la base de datos
 
 La base de datos e-commerce_db se compone de tres colecciones principales: productos, que almacena la información del catálogo de artículos disponibles; clientes, que registra los datos de los usuarios del sistema; y pedidos, que gestiona las órdenes de compra estableciendo referencias tanto a los productos adquiridos como al cliente correspondiente, donde cada colección contiene documentos individuales con campos y tipos de datos coherentes según su función dentro del modelo.
 
+
 Tabla 1
 Colección: productos
 <img width="640" height="247" alt="1" src="https://github.com/user-attachments/assets/2025db3f-42c8-4f7a-8bc5-57c1aaf627c1" />
-
+<br></br>
 
 
 
