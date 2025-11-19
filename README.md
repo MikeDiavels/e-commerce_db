@@ -23,9 +23,9 @@ Colección: pedidos
 <br></br>
 <img width="639" height="288" alt="3" src="https://github.com/user-attachments/assets/0a9c0224-da72-46ba-81b7-a5f912bafff2" />
 <br></br>
-Para esta base de datos se uso:
-MongoDB Server 8.2
-para la gestión se uso:
+Para esta base de datos se uso:<br></br>
+MongoDB Server 8.2<br></br>
+para la gestión se uso:<br></br>
 MongoDB Compass 1.48.2
 <br></br>
 Se exporto el contenido de los archivos que se encuentran en /Datos/
