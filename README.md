@@ -29,3 +29,9 @@ para la gestión se uso:<br></br>
 MongoDB Compass 1.48.2
 <br></br>
 Se exporto el contenido de los archivos que se encuentran en /Datos/
+Origen de los datos: N/A
+Descripción de consultas basicas.
+Creacion de Base de datos<br/>
+<img width="953" height="501" alt="Db" src="https://github.com/user-attachments/assets/9e6349a5-72ca-46b2-b34e-6697417c503e" />
+<br/>
+
