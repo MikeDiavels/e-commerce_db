@@ -37,4 +37,23 @@ Descripción de consultas basicas.
 Creacion de Base de datos<br></br>
 <img width="953" height="501" alt="Db" src="https://github.com/user-attachments/assets/9e6349a5-72ca-46b2-b34e-6697417c503e" />
 <br></br>
-
+Inserción de productos.
+<br></br>
+<img width="955" height="502" alt="Insercion" src="https://github.com/user-attachments/assets/d84bee69-3373-4d6f-a9c8-21bc456871e2" />
+<br></br>
+Selección (Consultar todos los productos de una categoría):
+<br></br>
+<img width="959" height="502" alt="Seleccion" src="https://github.com/user-attachments/assets/9cfb31ee-7514-4e67-9150-b3b9d602261f" />
+<br></br>
+Actualización (Actualizar el precio de un producto):
+<br></br>
+<img width="959" height="505" alt="Actualizacion" src="https://github.com/user-attachments/assets/e0497d3e-be03-401d-b280-32f6f18cddef" />
+<br></br>
+Eliminación (Eliminar un producto por SKU):
+<br></br>
+<img width="959" height="502" alt="Eliminacion" src="https://github.com/user-attachments/assets/1cd90ddc-43e5-418a-9b78-ed32933e340a" />
+BIG DATA - (202016911A_2034)
+<br></br>
+Tarea 4 - Almacenamiento y Consultas de Datos en Big Data
+<br></br>
+Grupo: 2
